@@ -1,1 +1,1 @@
-1. Transcript Generation & Summarization of YouTube videos
+1. Automatic Transcript Generation & Summarization of YouTube videos
