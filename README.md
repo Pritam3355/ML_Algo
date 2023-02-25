@@ -5,4 +5,4 @@ Use cases of various Methods &amp; Attributes of some of the popular ML Algorith
 
 2. Anomaly & Error Analysis
 
-3. Plant Disease classification (using EfficientNetB5)
+
